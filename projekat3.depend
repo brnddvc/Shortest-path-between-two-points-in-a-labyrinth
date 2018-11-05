@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1518538840 source:c:\users\berka\documents\projekat3\projekat3\main.cpp
+	<iostream>
+	"projekat3.h"
+
+1518538762 source:c:\users\berka\documents\projekat3\projekat3\projekat3.cpp
+	"projekat3.h"
+
+1518527167 c:\users\berka\documents\projekat3\projekat3\projekat3.h
+	<iostream>
+	<fstream>
+	<vector>
+	<climits>
+
